@@ -25,7 +25,7 @@ void main() {
                 ),
               ),
               Text(
-                "My favorite video game.",
+                "Andy Uriel KT.",
                 textAlign: TextAlign.center,
                 style: TextStyle(fontSize: 20, color: Colors.black),
               ),
